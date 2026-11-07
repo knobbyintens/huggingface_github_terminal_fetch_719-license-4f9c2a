@@ -1,7 +1,7 @@
 ---
 language:
 - en
-license: cc-by-4.0
+license: TBD
 task_categories:
 - text-generation
 pretty_name: PyCompact-Instruct
@@ -38,4 +38,4 @@ distributed as-is; the synthesis model itself is not redistributed.
 ## License
 
 <!-- LICENSE-DECISION -->
-The license for this dataset is cc-by-4.0.
+The license for this dataset is TBD.
